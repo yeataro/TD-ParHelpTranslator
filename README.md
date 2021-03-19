@@ -1,5 +1,5 @@
 # TD-ParHelpTranslator
- [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Downlad last release**](https://github.com/yeataro/TD-ParHelpTranslator/releases/latest/download/TD_ParHelpTranslator.tox) ]
+ [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Download last release**](https://github.com/yeataro/TD-ParHelpTranslator/releases/latest/download/TD_ParHelpTranslator.tox) ]
 
 ![](img/icon.png)
 
