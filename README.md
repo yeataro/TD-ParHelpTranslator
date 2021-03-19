@@ -4,8 +4,7 @@
 [![release](https://img.shields.io/github/release/yeataro/TD-ParHelpTranslator.svg)](../../releases/latest)
 [![release-date](https://img.shields.io/github/release-date/yeataro/TD-ParHelpTranslator.svg)](../../releases)
 [![downloads](https://img.shields.io/github/downloads/yeataro/TD-ParHelpTranslator/total.svg)](../../releases/latest/download/TD_ParHelpTranslator.tox)
-
- [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Download last release**](../../releases/latest/download/TD_ParHelpTranslator.tox) ]
+[![Community Post](https://img.shields.io/badge/Derivative-Community%20Post-lightgrey)](https://derivative.ca/community-post/asset/parhelp-translator/)
 
 ![](img/icon.png)
 
