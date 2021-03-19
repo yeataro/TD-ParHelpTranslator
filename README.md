@@ -1,6 +1,6 @@
 # TD-ParHelpTranslator
 
-
+![](img/rec1.webp)
 
 Automatically translate the help text of parameters. Rollover the parameter while holding the Alt key.
 
