@@ -1,5 +1,11 @@
 # TD-ParHelpTranslator
- [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Download last release**](https://github.com/yeataro/TD-ParHelpTranslator/releases/latest/download/TD_ParHelpTranslator.tox) ]
+
+[![license](https://img.shields.io/github/license/yeataro/TD-ParHelpTranslator.svg)](LICENSE)
+[![release](https://img.shields.io/github/release/yeataro/TD-ParHelpTranslator.svg)](../../releases/latest)
+[![release-date](https://img.shields.io/github/release-date/yeataro/TD-ParHelpTranslator.svg)](../../releases)
+[![downloads](https://img.shields.io/github/downloads/yeataro/TD-ParHelpTranslator/total.svg)](../../releases/latest/download/TD_ParHelpTranslator.tox)
+
+ [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Download last release**](../../releases/latest/download/TD_ParHelpTranslator.tox) ]
 
 ![](img/icon.png)
 
