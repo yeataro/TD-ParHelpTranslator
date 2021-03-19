@@ -1,6 +1,11 @@
-# TD-Components-Git-Template
-A Git repository template for TouchDesigner Components.
+# TD-ParHelpTranslator
 
-Mainly add the .gitignore file for TD, add the auto delete icon function and help module in the template .toe file.
+
+
+Automatically translate the help text of parameters. Rollover the parameter while holding the Alt key.
+
+![](img/sc1.png)
+
+![](img/sc2_cr.png)
 
 [TouchDesigner]: http://www.derivative.ca/
