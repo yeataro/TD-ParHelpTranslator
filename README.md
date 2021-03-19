@@ -1,5 +1,12 @@
 # TD-ParHelpTranslator
 
+[![license](https://img.shields.io/github/license/yeataro/TD-ParHelpTranslator.svg)](LICENSE)
+[![release](https://img.shields.io/github/release/yeataro/TD-ParHelpTranslator.svg)](../../releases/latest)
+[![release-date](https://img.shields.io/github/release-date/yeataro/TD-ParHelpTranslator.svg)](../../releases)
+[![downloads](https://img.shields.io/github/downloads/yeataro/TD-ParHelpTranslator/total.svg)](../../releases/latest/download/TD_ParHelpTranslator.tox)
+
+ [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Download last release**](../../releases/latest/download/TD_ParHelpTranslator.tox) ]
+
 ![](img/icon.png)
 
 Automatically translate the help text of parameters. Rollover the parameter while holding the `Alt` key.
@@ -23,6 +30,5 @@ Use service `https://clients5.google.com/translate_a/` to translate, which is us
 
 ---
 Author : Yea Chen <yeataro@gmail.com>
-
 
 [TouchDesigner]: http://www.derivative.ca/
