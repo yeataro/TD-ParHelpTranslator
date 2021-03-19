@@ -15,7 +15,7 @@ Automatically translate the help text of parameters. Rollover the parameter whil
 
 ![opsummaries2](https://user-images.githubusercontent.com/13723054/111761837-4d3d2400-88db-11eb-8e18-8304641c9982.gif)
 
-- Optional function 2 : Text of DAT can be translated. (Rollover a DAT and Press the `shit+T`)
+- Optional function 2 : Text of DAT can be translated. (Rollover a DAT and Press the `Ctrl+T`)
 
 ![](img/textTrans2.gif)
 
