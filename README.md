@@ -1,4 +1,5 @@
 # TD-ParHelpTranslator
+ [[**Community post**](https://derivative.ca/community-post/asset/parhelp-translator/)] [ [**Downlad last release**](https://github.com/yeataro/TD-ParHelpTranslator/releases/latest/download/TD_ParHelpTranslator.tox) ]
 
 ![](img/icon.png)
 
@@ -23,6 +24,5 @@ Use service `https://clients5.google.com/translate_a/` to translate, which is us
 
 ---
 Author : Yea Chen <yeataro@gmail.com>
-
 
 [TouchDesigner]: http://www.derivative.ca/
