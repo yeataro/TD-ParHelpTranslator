@@ -12,6 +12,7 @@ CrashAutoSave.*
 #test
 Test/
 WIP/
+release/
 
 #===PYTHON===
 
